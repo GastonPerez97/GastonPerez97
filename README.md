@@ -1,11 +1,15 @@
-# Hi there, I'm Gastón 👋 
+<h1 align="Center">  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Gastón <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>
 
-I'm currently learning Web Development at Universidad Nacional de La Matanza.
+- 🧔 I'm 23 years old and I'm from Buenos Aires, Argentina.
+- 📚 I'm currently learning Web Development at [Universidad Nacional de La Matanza](https://www.unlam.edu.ar/).
+- 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/gaston-ezequiel-perez/) or [E-Mail](mailto:gastonperez97@gmail.com).
+
+<h3 align="center">
 
 Visitor count:
-![Visitor Count](https://profile-counter.glitch.me/gastonperez97/count.svg)
 
-
+  <img src="https://profile-counter.glitch.me/gastonperez97/count.svg" />
+</h3>
 
 ## Languages and Tools I've worked with:
 
@@ -39,20 +43,22 @@ Visitor count:
     
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
 ### Other Tools:
       
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://cemar.com.co/wp-content/uploads/2020/03/Logo-Adobe_Premiere_Pro.png" alt="premiere" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://jonmircha.com/img/blog/vscode.png" alt="git" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://insomnia.rest/" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://cemar.com.co/wp-content/uploads/2020/03/Logo-Adobe_Premiere_Pro.png" alt="premiere" width="40" height="40"/> </a>
+  <a href="https://www.vegascreativesoftware.com/mx/vegas-pro/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vegas_Pro_15.0.png/600px-Vegas_Pro_15.0.png" alt="premiere" width="40" height="40"/> </a> 
 </p>
 <!--
 **GastonPerez97/gastonperez97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
