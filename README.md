@@ -11,9 +11,9 @@ Visitor count:
   <img src="https://profile-counter.glitch.me/gastonperez97/count.svg" />
 </h3>
 
-## 🖥️🛠️ Languages and Tools I've worked with:
+## 🖥️ Languages and Tools I've worked with:
 
-### Frontend:
+- <h3>👀 Frontend:</h3>
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
@@ -23,7 +23,7 @@ Visitor count:
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/> </a>
 </p>
 
-###  Backend:
+- <h3>⚙️ Backend:</h3>
   
 <p align="left">
 
@@ -32,7 +32,7 @@ Visitor count:
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
 </p>
 
-### 🛢 Databases:
+- <h3>🛢 Databases:</h3>
   
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
@@ -40,15 +40,14 @@ Visitor count:
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
 </p>
 
-### Programming Languages:
-    
+- <h3>👨‍💻 Programming Languages:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> 
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
 </p>
 
-### Other Tools:
+- <h3>🛠️ Other Tools:</h3>
       
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
@@ -62,17 +61,3 @@ Visitor count:
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://cemar.com.co/wp-content/uploads/2020/03/Logo-Adobe_Premiere_Pro.png" alt="premiere" width="60" height="60"/> </a>
   <a href="https://www.vegascreativesoftware.com/mx/vegas-pro/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vegas_Pro_15.0.png/600px-Vegas_Pro_15.0.png" alt="premiere" width="60" height="60"/> </a> 
 </p>
-<!--
-**GastonPerez97/gastonperez97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
