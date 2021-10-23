@@ -1,6 +1,6 @@
 <h1 align="Center">  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Gastón <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>
 
-- 🧔 I'm 24 years old and I'm from Buenos Aires, Argentina.
+- 🧔🏻 I'm 24 years old and I'm from Buenos Aires, Argentina.
 - 📚 I'm currently learning Web Development at [Universidad Nacional de La Matanza](https://www.unlam.edu.ar/).
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/gaston-ezequiel-perez/) or [E-Mail](mailto:gastonperez97@gmail.com).
 
@@ -35,5 +35,12 @@ Visitor count:
 
 - <h3>🛠️ Other Tools:</h3>
 
-| [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60">](https://git-scm.com/) | [<img src="https://jonmircha.com/img/blog/vscode.png" alt="visual studio code" width="60" height="60">](https://code.visualstudio.com/)  | [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60">](https://postman.com) | [<img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="60" height="60">](https://insomnia.rest/) | [<img src="https://user-images.githubusercontent.com/58083159/128256608-1ba319fb-973f-4318-b7ec-30a2dbd0b653.png" alt="xampp" width="60" height="60">](https://www.apachefriends.org/index.html) | [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60">](https://firebase.google.com/) | [<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60">](https://heroku.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60">](https://www.photoshop.com/en) | [<img src="https://cemar.com.co/wp-content/uploads/2020/03/Logo-Adobe_Premiere_Pro.png" alt="adobe premiere" width="60" height="60">](https://www.adobe.com/products/premiere.html) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vegas_Pro_15.0.png/600px-Vegas_Pro_15.0.png" alt="vegas pro" width="60" height="60">](https://www.vegascreativesoftware.com/mx/vegas-pro/)
-|---|---|---|---|---|---|---|---|---|---|
+| [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60">](https://git-scm.com/) | [<img src="https://jonmircha.com/img/blog/vscode.png" alt="visual studio code" width="60" height="60">](https://code.visualstudio.com/)  | [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60">](https://postman.com) | [<img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="60" height="60">](https://insomnia.rest/) | [<img src="https://user-images.githubusercontent.com/58083159/128256608-1ba319fb-973f-4318-b7ec-30a2dbd0b653.png" alt="xampp" width="60" height="60">](https://www.apachefriends.org/index.html) | [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60">](https://firebase.google.com/) | [<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60">](https://heroku.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60">](https://www.photoshop.com/en) | [<img src="https://cemar.com.co/wp-content/uploads/2020/03/Logo-Adobe_Premiere_Pro.png" alt="adobe premiere" width="60" height="60">](https://www.adobe.com/products/premiere.html)
+|---|---|---|---|---|---|---|---|---|
+
+## 📊 Stats:
+
+<h3 align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=gastonperez97&count_private=true&hide=stars,issues&show_icons=true&theme=chartreuse-dark)
+</h3>
