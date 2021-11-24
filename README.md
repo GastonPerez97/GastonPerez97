@@ -2,6 +2,7 @@
 
 - 🧔🏻 I'm 24 years old and I'm from Buenos Aires, Argentina.
 - 📚 I'm currently learning Web Development at [Universidad Nacional de La Matanza](https://www.unlam.edu.ar/).
+- 🌐 Checkout my [Portfolio](https://gastonperez.ar) to find out more about me and my projects.
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/gaston-ezequiel-perez/) or [E-Mail](mailto:gastonperez97@gmail.com).
 
 <h3 align="center">
