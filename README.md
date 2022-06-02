@@ -1,4 +1,4 @@
-<h1 align="Center">  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Gastón <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>
+<h1 align="Center">  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> I'm Gastón <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="40px"></h1>
 
 - 🧔🏻 I'm 24 years old and I'm from Buenos Aires, Argentina.
 - 📚 I'm currently learning Web Development at [Universidad Nacional de La Matanza](https://www.unlam.edu.ar/).
