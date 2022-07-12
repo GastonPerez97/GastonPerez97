@@ -1,7 +1,7 @@
 <h1 align="Center">  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> I'm Gastón <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="40px"></h1>
 
 - 🧔🏻 I'm 24 years old and I'm from Buenos Aires, Argentina.
-- 📚 I'm currently learning Web Development at [Universidad Nacional de La Matanza](https://www.unlam.edu.ar/).
+- 🎓 I graduated as a Web Development Technician at [Universidad Nacional de La Matanza](https://www.unlam.edu.ar/).
 - 🌐 Checkout my [Portfolio](https://gastonperez.ar) to find out more about me and my projects.
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/gaston-ezequiel-perez/) or [E-Mail](mailto:contact@gastonperez.ar).
 
