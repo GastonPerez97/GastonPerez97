@@ -44,5 +44,5 @@ Visitor count:
 
 <h3 align="center">
 
-
+![](https://github-readme-stats.vercel.app/api?username=gastonperez97&count_private=true&hide=stars,issues&show_icons=true&theme=chartreuse-dark)  
 </h3>
