@@ -4,14 +4,6 @@
 - 🎓 I graduated as a Web Development Technician at [Universidad Nacional de La Matanza](https://www.unlam.edu.ar/).
 - 🌐 Checkout my [Portfolio](https://gastonperez.ar) to find out more about me and my projects.
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/gaston-ezequiel-perez/) or [E-Mail](mailto:contact@gastonperez.ar).
-- 🗃️ Currently using Bitbucket at work.
-
-<h3 align="center">
-
-Visitor count:
-
-  <img src="https://profile-counter.glitch.me/gastonperez97/count.svg" />
-</h3>
 
 ## 🖥️ Languages and Tools:
 
