@@ -31,10 +31,3 @@
 
 | [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60">](https://git-scm.com/) | [<img src="https://user-images.githubusercontent.com/58083159/158461958-394d5b81-72e1-4cae-8c1e-53f355451030.png" alt="npm" width="60">](https://www.npmjs.com/) | [<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="docker" width="60">](https://www.docker.com/) | [<img src="https://user-images.githubusercontent.com/58083159/144488538-a7102b87-8e75-4062-bff9-fd464aa24dbc.png" alt="uml" width="60">](https://en.wikipedia.org/wiki/Unified_Modeling_Language) | [<img src="https://user-images.githubusercontent.com/58083159/158458696-bbba3311-5c42-46a4-a4f8-4af3f4e6bcbe.svg" alt="trello" width="60" height="60">](https://trello.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60">](https://www.photoshop.com/en)
 |---|---|---|---|---|---|
-
-## 📊 Stats:
-
-<h3 align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=gastonperez97&count_private=true&hide=stars,issues&show_icons=true&theme=chartreuse-dark)  
-</h3>
